@@ -2,6 +2,6 @@ server:
   port: 8766
 
 hikaricp:
-    url: jdbc:postgresql://192.168.24.239:5432/postgres
+    url: jdbc:postgresql://localhost:5432/postgres
     username: gpadmin
     password: pivotal
