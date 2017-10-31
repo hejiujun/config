@@ -3,7 +3,7 @@ server:
 
 
 hikaricp:
-    url: jdbc:postgresql://192.168.99.100:5432/postgres
+    url: jdbc:postgresql://192.168.24.239:5432/postgres
     username: gpadmin
     password: pivotal
 
