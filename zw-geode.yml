@@ -14,7 +14,7 @@ server:
 geode:
   cache:
     server:
-      host: zw-geode-server
+      host: 192.168.99.100
       port: 40404
     log:
       level: config
