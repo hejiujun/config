@@ -3,7 +3,7 @@ server:
 
 security:
     user:
-        name: whb
+        name: hejj
         password: 123456
         role: USER
 eureka:
